@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/samuelboediono/Constructor-Hangman#readme",
   "dependencies": {
-    "inquirer": "^3.3.0"
+    "inquirer": "^3.3.0",
+    "is-letter": "^1.1.1"
   }
 }
