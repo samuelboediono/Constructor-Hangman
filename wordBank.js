@@ -1,3 +1,4 @@
-exports.newWord = ["superman", "batman", "flash", "hawkgirl", "batgirl", "supergirl", "aquaman", "cyborg", "robin", "nightwing", "thor", "deadpool", "mystique", "storm", "grodd", "magneto", "loki", "steel", "gambit", "zod"];
 
-
+exports.newWord = {
+  wordList:["SUPERMAN", "BATMAN", "FLASH", "HAWKGIRL", "BATGIRL", "SUPERGIRL", "AQUAMAN", "CYBORG", "ROBIN", "NIGHTWING", "THOR", "DEADPOOL", "MYSTIQUE", "STORM", "GRODD", "MAGNETO", "LOKI", "STEEL", "GAMBIT", "ZOD"]
+};
